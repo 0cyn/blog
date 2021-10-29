@@ -15,3 +15,9 @@ a.sidebar-brand {
     padding: 0;
     margin-bottom: -18px;
 }
+a.sidebar-brand {
+    padding: 0;
+    margin-bottom: -17px;
+    width: 18em;
+    margin-left: -60px;
+}
