@@ -10,3 +10,8 @@ tbody tr:first-of-type td {
     font-weight: 700;
     padding-bottom: .5em;
 }
+
+a.sidebar-brand {
+    padding: 0;
+    margin-bottom: -18px;
+}
