@@ -8,7 +8,8 @@ cp -r internal/* build/
 
 cp -r logo/* build/source/_static/
 
-cp custom.css build/source/_static/css/custom.css 
+cp custom.css build/source/_static/css/custom.css
+cp custom.js build/source/_static/js/custom.js 
 
 cp -r posts/* build/source/
 mv build/source/frontpage.rst build/source/index.rst 
