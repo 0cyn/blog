@@ -1,5 +1,5 @@
 blog
 =================================
 
-welcome to kat's little dumb blog. why are you here. content soon.
+welcome to my little dumb blog. why are you here. content soon.
 
