@@ -49,8 +49,8 @@ html_theme = 'furo'
 html_theme_options = {
     "sidebar_hide_name": True,
     "navigation_with_keys": True,
-    "light_logo": "blog.png",
-    "dark_logo": "blog.png",
+    "light_logo": "blog-light.png",
+    "dark_logo": "blog-dark.png",
 }
 
 html_css_files = [
