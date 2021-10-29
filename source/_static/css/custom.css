@@ -19,8 +19,18 @@ a.sidebar-brand {
     padding: 0;
     margin-bottom: -17px;
     width: 18em;
-    margin-left: -60px;
+    margin-left: -56px;
+    padding-top: 15px;
 }
 .related-information {
     display: none;
+}
+input.sidebar-search, .sidebar-search-container::before {
+    display: none;
+}
+form.sidebar-search-container {
+    border-top: solid 1px #c5c5c5;
+}
+body[data-theme="dark"] form.sidebar-search-container {
+    border-top: solid 1px #383838;
 }
