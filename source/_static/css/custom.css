@@ -31,6 +31,9 @@ input.sidebar-search, .sidebar-search-container::before {
 form.sidebar-search-container {
     border-top: solid 1px #c5c5c5;
 }
-body[data-theme="dark"] form.sidebar-search-container {
-    border-top: solid 1px #383838;
+@media (prefers-color-scheme: dark)
+{
+body:not([data-theme="light"]) form.sidebar-search-container {
+        border-top: solid 1px #383838;
+    }
 }
