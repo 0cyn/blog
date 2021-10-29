@@ -21,3 +21,6 @@ a.sidebar-brand {
     width: 18em;
     margin-left: -60px;
 }
+.related-information {
+    display: none;
+}
