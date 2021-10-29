@@ -21,5 +21,8 @@ make html
 echo "Built HTML"
 
 cp -r build/html/* ../html/
+rm -rf build/
+
+cd ..
 
 echo "Done"
